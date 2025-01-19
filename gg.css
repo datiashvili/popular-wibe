@@ -1,0 +1,42 @@
+body{
+    background-color: hsl(47, 88%, 63%) ;
+    display: flex;
+    justify-content: center;
+    align-items: center;;
+    height: 100vh;
+}
+
+.main-1{
+    background-color: white;
+    padding: 20px;
+    border-radius:13px;
+    width: 335px;
+
+}
+
+.img1{
+    border-radius: 13px;
+
+}
+
+.learn{
+    background-color: hsl(47, 88%, 63%) ;
+    width: 70px;
+    padding: 4px;
+    text-align: center;
+    border-radius: 4px;
+}
+
+.p-2{
+    color: hsl(0, 0%, 42%) ;
+}
+
+.main-2{
+    display: flex;
+    align-items: center;
+    gap: 9px;
+}
+
+.img-2{
+    width: 50px;
+}
